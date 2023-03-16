@@ -4,4 +4,4 @@ Se detalla la situacion de aprendizaje de la UD9. Telecomunicaciones digitales, 
 En esta situación de aprendizaje el alumnado debera de analizar la presente aplicación de IoT compuesta por un NodeMCU leyendo valores de un sensor de temperatura y humedad que los envia siguiendo el protocolo MQTT y es visualizado en una app realizada en NodeRed.
 # COMPONENTES HW NECESARIOS
 
-# COMPONTENTES SW NECESARIOS
+# COMPONENTES SW NECESARIOS
