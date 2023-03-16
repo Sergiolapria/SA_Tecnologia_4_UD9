@@ -8,7 +8,8 @@ En esta situación de aprendizaje el alumnado debera de analizar la presente apl
 3. Cualquier sensor.
 ## COMPONENTES SW NECESARIOS
 1. VSC con PlatFomIO, se puede usar el IDE de Arduino.
-2. Raspberry PI con Mosquitto y Node-red instalados, podemos obviar el Node-red e instalarlo en los ordenadores del aula si tenemos miedo a sobrecargar la RPI.
+2. Raspberry PI con Mosquitto y Node-red instalados[^1], podemos obviar el Node-red e instalarlo en los ordenadores del aula si tenemos miedo a sobrecargar la RPI.
 3. Angry IP Scanner o similar.
 ## OBJETIVOS
 Se hace esta instalación base con el fin de que el alumnado investigue por si mismo acerca del potencial del IoT prototipando sus propios proyectos.
+[^1]: Se obvia el paso de instalar estos programas ya que en la red existen multitud de tutoriales acerca de estos pasos.
