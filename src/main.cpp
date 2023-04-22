@@ -1,5 +1,6 @@
 #include <Arduino.h>
 #include <motores.h>
+motores myMotores();
 
 
 void setup() {
